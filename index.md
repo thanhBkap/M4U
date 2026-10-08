@@ -1,8 +1,8 @@
-# M4U — Privacy Policy
+# M4U - Privacy Policy
 
 Last updated: October 8, 2026
 
-M4U is provided by Devy (“we”, “us”, or “our”). This Privacy
+App is provided by Devy (“we”, “us”, or “our”). This Privacy
 Policy explains how information is collected, used, stored, and
 shared when you use our app.
 
